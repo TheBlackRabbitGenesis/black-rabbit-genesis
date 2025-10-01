@@ -9,10 +9,6 @@
 
 This repository contains the **genesis record** of **The Black Rabbit** — a digital threshold, an unfolding enigma, and a proving ground that exists beyond entertainment, commerce, or explanation.
 
-It is not a game.  
-It is not an experiment.  
-It is an **invitation**.
-
 ---
 
 ### II. The Invocation

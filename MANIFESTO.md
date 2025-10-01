@@ -1,4 +1,4 @@
-#  The Black Rabbit
+# The Black Rabbit
 ### A Signal. A Secret. A Test.
 
 > *“Doors do not open to the worthy. They open to those who refuse to stop knocking.”*

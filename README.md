@@ -1,4 +1,4 @@
-# 🐇 The Black Rabbit — Genesis
+# The Black Rabbit — Genesis
 
 > A signal has been sent. A threshold has been built.  
 > Many may enter. Only one will win.
